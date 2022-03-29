@@ -315,9 +315,9 @@ FOUR DAY SCHEDULE
       <tr> <td>14:55</td> <td>Teaching Is a Skill </td> </tr>
       <tr> <td>15:55</td> <td>Wrap-up and Homework </td> </tr>
       <tr> <td>16:25</td> <td>Finish day 2</td> </tr>
+      <tr> <td> </td><td> </td> </tr>
     </table>
   </div>
-  <br /> <!-- helps with wrapping -->
   <div class="col-md-6">
     <h3>Day 3</h3>
     <table class="table table-striped">
