@@ -315,7 +315,7 @@ FOUR DAY SCHEDULE
       <tr> <td>14:55</td> <td>Teaching Is a Skill </td> </tr>
       <tr> <td>15:55</td> <td>Wrap-up and Homework </td> </tr>
       <tr> <td>16:25</td> <td>Finish day 2</td> </tr>
-      <tr> <td> </td><td> </td> </tr>
+      <tr> <td>" "</td><td> </td>" "</tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -339,7 +339,7 @@ FOUR DAY SCHEDULE
       <tr> <td>15:10</td> <td>Launches and Landings </td> </tr>
       <tr> <td>15:50</td> <td>Putting it Together </td> </tr>
       <tr> <td>16:10</td> <td>Wraping Up </td> </tr>
-      <tr> <td>16:20</td> <td>Post-Training Survey </td> </tr>
+      <tr> <td>16:20</td> <td>Post Training Survey </td> </tr>
       <tr> <td>16:35</td> <td>Finish </td> </tr>
     </table>
   </div>
